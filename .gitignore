@@ -1,0 +1,8 @@
+# Folders
+/node_modules/
+/logs/
+
+# Config Files
+yarn.lock
+.eslintrc.js
+.env
